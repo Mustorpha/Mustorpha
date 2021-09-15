@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Jamiu Mustorpha
-- 👀 I’m interested in Automation, Web and cloud app mangement and Game development.
-- 📫 How to reach me---jamiumustorpha655@gmail.com
+Hi, I’m Jamiu Mustorpha
+A Mechanical Engineering Student
+I’m interested in Automations and AI
+And some interest in Web and cloud app mangement and Game development also.
 
 <!---
 Mustorpha/Mustorpha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
