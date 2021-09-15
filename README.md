@@ -1,7 +1,10 @@
-Hi, I’m Jamiu Mustorpha
-A Mechanical Engineering Student
-I’m interested in Automations and AI
-And some interest in Web and cloud app mangement and Game development also.
+**Hi, I’m Mustorpha.**
+- A Mechanical Engineering Student.
+- Interested in Automations and AI.
+- Love Space adventures
+- Wishing that some day, will visit there at least for fun:)
+
+
 
 <!---
 Mustorpha/Mustorpha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
