@@ -1,5 +1,4 @@
 **Hi, I’m Mustorpha.**
-- A Mechanical Engineering Student.
 - Interested in Automations and AI.
 - Love Space adventures
 - Wishing that some day, will visit there at least for fun:)
