@@ -1,7 +1,7 @@
 **Hi, I’m Mustorpha.**
 - Interested in Automations and AI.
 - Love Space adventures
-- Wishing that some day, will visit there at least for fun:)
+- Wishing that some day, will visit there at least for fun :)
 
 
 
