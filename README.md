@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Mustorpha Jamiu from Lagos, Nigeria.<br><br>- 🔭 I’m working as fullstack software developer<br>- 📚 I'm currently learning cybersecurity<br>- ⚡ In my free time I learn new things and watch movies</p>
+<p align="left">I'm Mustorpha Jamiu from Lagos, Nigeria.<br><br>- 🔭 I’m working as fullstack software engineer<br>- 📚 I'm currently learning cybersecurity<br>- ⚡ In my free time I learn new things and watch movies</p>
 
 ###
 
