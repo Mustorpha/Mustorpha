@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Mustorpha Jamiu from Lagos, Nigeria.<br><br>- 🔭 I’m working as fullstack software engineer (Backend Heavy)<br>- 📚 I'm currently learning cybersecurity<br>- ⚡ In my free time I learn new things and watch movies</p>
+<p align="left">I'm Mustorpha Jamiu from Lagos, Nigeria.<br><br>- 🔭 I’m working as fullstack software engineer<br>- 📚 I enjoy building backend systems mostly.<br>- ⚡ In my free time I learn new things and watch movies</p>
 
 ###
 
@@ -50,6 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-plain.svg" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
