@@ -1,3 +1,29 @@
+<h1 align="center">Hi 👋, I'm Mustorpha Jamiu (TheBigMuse) from Lagos, Nigeria.</h1>
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Mustorpha Jamiu from Lagos, Nigeria.<br><br>- 🔭 I’m working as fullstack software engineer<br>- 📚 I enjoy building backend systems mostly.<br>- ⚡ In my free time I learn new things and watch movies</p>
+
+###
+<h3 align="center">- 🔭 I’m working as fullstack software engineer<br>- 📚 I enjoy building backend systems mostly.<br>- ⚡ In my free time I learn new things and watch movies</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamiu10012&label=Profile%20views&color=0e75b6&style=flat" alt="jamiu10012" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamiu10012" alt="jamiu10012" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ibrahim44332936" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahim44332936?logo=twitter&style=for-the-badge" alt="ibrahim44332936" /></a> </p>
+
+- 💬 Ask me about **C, C++, C#, Python, JavaScript**
+
+- 📫 How to reach me **mustorphajamiu@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/MustorphaJamiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibrahim44332936" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/msutorpha-jamiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamiu-ibrahim" height="30" width="40" /></a>
+</p>
+
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
@@ -21,20 +47,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mustorpha.mustorpha&"  />
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Mustorpha Jamiu from Lagos, Nigeria.<br><br>- 🔭 I’m working as fullstack software engineer<br>- 📚 I enjoy building backend systems mostly.<br>- ⚡ In my free time I learn new things and watch movies</p>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -64,6 +76,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
 
 ###
