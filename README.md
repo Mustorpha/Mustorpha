@@ -5,6 +5,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustorpha" alt="mustorpha" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/MustorphaJamiu" target="blank"><img src="https://img.shields.io/twitter/follow/MustorphaJamiu?logo=twitter&style=for-the-badge" alt="mustorphajamiu" /></a> </p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mustorpha.mustorpha&"  />
+</div>
 
 - 💬 Ask me about **C, C++, C#, Python, JavaScript**
 
@@ -15,10 +18,6 @@
 <a href="https://twitter.com/MustorphaJamiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mustorpha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/msutorpha-jamiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mustorpha" height="30" width="40" /></a>
 </p>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mustorpha.mustorpha&"  />
-</div>
 
 <h3 align="left">🛠 Language and tools</h3>
 
