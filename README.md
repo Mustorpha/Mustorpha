@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mustorpha Jamiu (TheBigMuse) from Lagos, Nigeria.</h1>
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Mustorpha Jamiu from Lagos, Nigeria.<br><br>- 🔭 I’m working as fullstack software engineer<br>- 📚 I enjoy building backend systems mostly.<br>- ⚡ In my free time I learn new things and watch movies</p>
-
-###
+<h3 align="center">👩‍💻  About Me</h3>
 <h3 align="center">- 🔭 I’m working as fullstack software engineer<br>- 📚 I enjoy building backend systems mostly.<br>- ⚡ In my free time I learn new things and watch movies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamiu10012&label=Profile%20views&color=0e75b6&style=flat" alt="jamiu10012" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustorpha&label=Profile%20views&color=0e75b6&style=flat" alt="mustorpha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamiu10012" alt="jamiu10012" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustorpha" alt="mustorpha" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ibrahim44332936" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahim44332936?logo=twitter&style=for-the-badge" alt="ibrahim44332936" /></a> </p>
+<p align="left"> <a href="https://twitter.com/MustorphaJamiu" target="blank"><img src="https://img.shields.io/twitter/follow/MustorphaJamiu?logo=twitter&style=for-the-badge" alt="mustorphajamiu" /></a> </p>
 
 - 💬 Ask me about **C, C++, C#, Python, JavaScript**
 
@@ -20,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/MustorphaJamiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibrahim44332936" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/msutorpha-jamiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamiu-ibrahim" height="30" width="40" /></a>
+<a href="https://twitter.com/MustorphaJamiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mustorpha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/msutorpha-jamiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mustorpha" height="30" width="40" /></a>
 </p>
 
 <div align="center">
