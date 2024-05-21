@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mustorpha Jamiu (TheBigMuse) from Lagos, Nigeria.</h1>
 <h3 align="center">👩‍💻  About Me</h3>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mustorpha.mustorpha&"  />
+</div>
 <h3 align="left">- 🔭 I’m working as fullstack software engineer<br>- 📚 I enjoy building backend systems mostly.<br>- ⚡ In my free time I learn new things and watch movies</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustorpha" alt="mustorpha" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/MustorphaJamiu" target="blank"><img src="https://img.shields.io/twitter/follow/MustorphaJamiu?logo=twitter&style=for-the-badge" alt="mustorphajamiu" /></a> </p>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mustorpha.mustorpha&"  />
-</div>
 
 - 💬 Ask me about **C, C++, C#, Python, JavaScript**
 
