@@ -1,6 +1,6 @@
-# 👨‍💻 Mustorpha Jamiu – Software Engineer | System Architect | Scalable Solutions Enthusiast
+# 👨‍💻 Mustorpha Jamiu – Software Engineer
 
-Welcome. I’m a Software Engineer with a deep interest in building **distributed systems**, **intelligent applications**, and **resilient cloud-native architectures**. I specialize in designing and implementing software that operates reliably at scale — across industries and domains — from mission-critical APIs to offline-first data pipelines and ML-integrated workflows.
+Welcome. I’m a Software Engineer with a deep interest in building **distributed systems**, **intelligent applications**, and **resilient cloud-native architectures**. I specialize in designing and implementing software that operates reliably at scale across industries and domains, from mission-critical APIs to offline-first data pipelines and ML-integrated workflows.
 
 ---
 
