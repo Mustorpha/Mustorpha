@@ -26,7 +26,7 @@ Welcome. I’m a Software Engineer with a deep interest in building **distribute
 - Architect workflows where **AI augments automation**, not replaces clarity  
 - Design for traceability, auditability, and controlled rollout of ML-based features
 
-### AND MORE...
+### ➕ And More...
 
 ---
 
