@@ -6,7 +6,7 @@
 
 - [LinkedIn](https://linkedin.com/in/mustorpha-jamiu)
 - [Email](mailto:mustorphajamiu@gmail.com)
-- [Portfolio / Blog](#)
+- [Portfolio / Blog](https://mustorpha.vercel.app)
 
 ---
 
